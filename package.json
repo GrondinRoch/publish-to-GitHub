@@ -1,0 +1,16 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "hello world",
+  "main": "hello.js",
+  "scripts": {
+    "start": "nodemon hello.js",
+    "dev": "nodemon hello.js"
+  },
+  "type": "module",
+  "author": "Grondin Roch",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
